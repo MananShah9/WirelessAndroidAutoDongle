@@ -24,3 +24,11 @@ dtparam=krnbt=on
 
 # Enable dwc2 required for gadget mode
 dtoverlay=dwc2,dr_mode=peripheral
+
+arm_freq=1085
+arm_freq_min=685
+core_freq=515
+core_freq_min=365
+over_voltage=2
+sdram_freq=533
+over_voltage_sdram=1
