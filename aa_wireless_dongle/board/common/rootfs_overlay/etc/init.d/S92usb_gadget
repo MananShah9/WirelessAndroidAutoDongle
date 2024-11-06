@@ -3,9 +3,9 @@
 # Configure USB gadget interfaces
 #
 
-SERIAL_NUMBER="0123456"
-MANUFACTURER="My Own"
-PRODUCT="AA Wireless Dongle"
+SERIAL_NUMBER="9999999"
+MANUFACTURER="Manan Shah"
+PRODUCT="Kia Seltos Android Auto"
 
 ACCESSORY_GADGET_NAME="accessory"
 DEFAULT_GADGET_NAME="default"
